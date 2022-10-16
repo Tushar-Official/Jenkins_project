@@ -1,4 +1,4 @@
 
 FROM alpine
 
-CMD ["echo", "Hello StackOverflow!","0.0.0.0:8000"]
+CMD ["echo", "Hello its working ","0.0.0.0:8000"]
